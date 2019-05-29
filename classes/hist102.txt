@@ -1,0 +1,19 @@
+6
+Midterm 1	Midterm 2	Quizzes	Finals	Paper	Attendance	
+0.15	0.15	0.15	0.2	0.2	0.15	
+Midterm 1
+96
+Midterm 2
+92
+Quizzes
+80
+80
+100
+100
+100
+Finals
+75
+Paper
+93
+Attendance
+100
